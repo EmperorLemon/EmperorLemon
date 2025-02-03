@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Caleb 👋</h1>
 
-<h3 align="left">Here are my GitHub Stats:</h3>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=EmperorLemon&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmperorLemon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Caleb's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorLemon&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
